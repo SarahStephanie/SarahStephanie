@@ -2,7 +2,7 @@
 - 👀 I’m interested in making life better for all
 - 🌱 I’m currently learning to be brave
 - 💞️ I’m looking to collaborate on GrandmasDAO and other decent projects
-- 📫 How to reach me I am easy to find
+- 📫 I am easy to find
 
 <!---
 SarahStephanie/SarahStephanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
